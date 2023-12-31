@@ -1,0 +1,3 @@
+DataBase name : parsissa_esysss
+User Name : parsissa_ehsan
+password : parsiran2017ESY
